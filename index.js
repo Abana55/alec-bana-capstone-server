@@ -13,5 +13,5 @@ app.use(express.json());
 app.use("/api/calculators", calculators)
 
 app.listen(8080, () => {
-    console.log('andrea is the fuckin best')
+    console.log('Testing')
 })
